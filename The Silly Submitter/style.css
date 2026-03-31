@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+    font-family:'Comic Sans MS', cursive, sans-serif;
+    background-color:beige;
+    padding:50px;
+}
+h1{
+    color: #333;
+}
+form {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+input {
+      margin: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+}
+button {
+      background: #6e7a8d;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    button:hover{
+        background-color:rgb(118, 6, 103);
+    }
+#output{
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #413602;
+
+}
