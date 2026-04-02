@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+}
+#countLabel{
+    font-family:helvetica;
+    font-size:10em;
+    text-align:center;
+
+}
+.buttons{
+    font-size:30px;
+    font-family:verdana;
+    padding:10px 20px;
+    margin:10px;
+    color:grey;
+    background-color:rgb(165, 66, 165);
+    text-align:center;
+    border-radius:7px;
+    cursor: pointer;
+    transition:background-color 0.8s;
+}
+.buttons:hover{
+    background-color:plum;
+}
+
+
+
